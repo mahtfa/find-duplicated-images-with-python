@@ -17,10 +17,21 @@ nothing just to say it will make 2 log files one with every try program did one 
 * somtimes not detecting the repeated pictures and wrong detecting
 * and so much more!
 
-i will fix them when i have enough energy for my rest life ;)
+i will fix them when i have enough energy for my rest of life ;)
 
 # Terms of use
 use this program on your own if you got cancer after using this I will not accept any doubts!
+
+# Note
+By running requirments.bat file in windows automatically install the needed libraries
+
+BTW these are the libraries list:
+* pillow
+* glob
+* shutil
+* datetime
+
+#
 
 GL & HF
 
